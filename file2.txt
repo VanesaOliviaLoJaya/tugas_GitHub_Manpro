@@ -1,2 +1,2 @@
 baris di lokal
-tambah di remote
+tambah di remote edit di lokal ke 2
